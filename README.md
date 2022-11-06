@@ -1,11 +1,13 @@
+
 <p>
 	<img alt="GIF" src="https://raw.githubusercontent.com/SamStalschus/SamStalschus/main/source.gif" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/samstalschusx/">Instagram</a> •
+  <a href="https://medium.com/@samstalschus">Medium</a> •
   <a href="https://www.linkedin.com/in/samstalschus/">Linkedin</a> •
-  <a href="https://www.facebook.com/sam.stalschus">Spotify</a>
+  <a href="https://www.instagram.com/samstalschusx/">Instagram</a>
+
 </p>
 
 ---
