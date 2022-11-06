@@ -1,6 +1,6 @@
 
 <p>
-	<img alt="GIF" src="https://raw.githubusercontent.com/SamStalschus/SamStalschus/main/source.gif" width="100%" />
+	<img alt="GIF" src="https://raw.githubusercontent.com/sstalschus/sstalschus/main/source.gif" width="100%" />
 </p>
 
 <p align="center">
